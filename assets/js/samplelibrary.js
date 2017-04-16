@@ -2,7 +2,7 @@
 (function (App) {
   "use strict";
 
-  var al = '/content/audio/2002DANC/';
+  var al = './content/audio/2002DANC/';
 
   App.sampleLibrary = [
 
